@@ -1,0 +1,23 @@
+1) Create a Student class with a constructor that accepts three subject marks. Calculate and display the total and average.
+
+2) Create an Employee class with a constructor that accepts basicSalary, allowance, and deduction. Calculate and display the final salary.
+
+3) Create a Product class with a constructor that accepts name, price, and quantity. Calculate and display the total price.
+
+4) Create a Vehicle class with brand and speed. Create a Bike class that inherits from Vehicle and adds engineCapacity.
+
+5) Create an Employee class with name and salary. Create a Developer class that inherits from Employee and adds programmingLanguage.
+
+6) Create a BankAccount class with accountHolder and balance. Create a SavingsAccount class that inherits from BankAccount and adds interestRate.
+
+1) Create a Student class with a constructor that accepts three subject marks. Calculate and display the total and average.
+
+2) Create an Employee class with a constructor that accepts basicSalary, allowance, and deduction. Calculate and display the final salary.
+
+3) Create a Product class with a constructor that accepts name, price, and quantity. Calculate and display the total price.
+
+4) Create a Vehicle class with brand and speed. Create a Bike class that inherits from Vehicle and adds engineCapacity.
+
+5) Create an Employee class with name and salary. Create a Developer class that inherits from Employee and adds programmingLanguage.
+
+6) Create a BankAccount class with accountHolder and balance. Create a SavingsAccount class that inherits from BankAccount and adds interestRate.
