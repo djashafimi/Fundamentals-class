@@ -1,0 +1,158 @@
+Core programming concepts
+=============================
+1) Operators
+2) variables
+3) arrays
+4) conditional statements
+5) looping structure
+6) functions
+7) class
+
+
+1) Operators
+===============
+
+i) Mathematical operator
+
++,- ,/ ,* ,%, +=, -=, *=, %=, ++, --
+
+Eg:
+
++=
+
+x=10;
+x+=5;
+
+
+x=10
+x=x+5		//15
+
+-=
+
+x=10
+x-=5   or  x=x-5
+
+x=10
+x*=5	or x=x*5
+
+x=10
+x/=5	or x=x/y
+
+x=10
+x%=5 	or x=x%5
+
+x=10
+x++	or x=x+1
+
+x=10
+x--	or x=x-1
+
+ii) Assignment operator
+========================
+
+=, +=, -=, *=, /=, %=, :, =>
+
+iii) Concatenation operator
+============================
+
++	(in most languages)
+.	(in PHP)
+
+iv) comparison operator
+========================
+
+=, ==,===, !=, !==, <>
+
+==	// compares value and case
+
+===	// compares value, case and data type.
+
+10 !="10"   //false
+10 !=="10"   //true
+"Anu"!="anu" //true
+
+
+v) Relational operator
+=========================
+>, <, >=, <=
+
+vi) Logical operator
+=========================
+AND, OR, NOT
+
+
+
+
+
+
+2) Variable
+=============
+
+variable is a container to store data.
+
+eg: x=10;
+    name="Anu";
+
+Rules to declare variable
+===========================
+
+* variable can be declared with the combination of alphabets, numbers and "_"
+
+* Except "_" no other symbols are used.
+
+* A number alone cannot be used as variable
+
+* A variable starting with number is also not allowed
+
+* A variable is case sensitive, which means "a" and "A" are different
+Data type
+===========
+
+The type of data assigned to a variable is called data type.
+
+num=10	//integer
+
+price=20.50 //float
+
+name="Anu" //string
+
+valid= true/ false //boolean
+
+
+
+Type casting
+================
+
+Changing the datatype of a variable into another datatype.
+Number()	// string to number
+parseInt()	// string to integer
+parseFloat()	// string to decimal number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

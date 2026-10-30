@@ -1,0 +1,29 @@
+<script>
+	function calculator(x,y,oper){
+		var res;
+		switch(oper){
+			case "+":
+			res=x+y;
+			break;
+
+			case "-":
+			res=x-y;
+			break;
+
+			case "*":
+			res=x*y;
+			break;
+
+			case "/":
+			res=x/y;
+			break;
+
+			default
+			res="unknown";
+
+		}
+		return res;	
+	}
+	result=calculator(10,20,"+")
+	document.write(result)
+</script>
